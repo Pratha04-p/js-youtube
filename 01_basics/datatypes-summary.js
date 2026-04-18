@@ -14,7 +14,6 @@ console.log(x);
 // +++++++++++++++++++++++++++++++ //
 
 //stack and heap memory
-stack -> primitive //you get a copy
-heap -> non primitive // you get reference of original value
+//stack -> primitive //you get a copy
+//heap -> non primitive // you get reference of original value
 
-let myYoutubeName = 
